@@ -1,4 +1,7 @@
 Dataset Diamonds: Mount Fuji Simulation
+
+
+
 This project simulates a fictional distribution of diamond resources buried beneath the geological layers of Mount Fuji. Using Python, NumPy, and Matplotlib, it models 100 stratified layers, each assigned a randomized diamond count based on a Gaussian distribution.
 
 What This Represents
